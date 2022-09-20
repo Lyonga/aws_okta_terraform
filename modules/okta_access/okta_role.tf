@@ -1,4 +1,5 @@
 variable "master_account_id" {
+  description = "account ID"
   type = "string"
 }
 
