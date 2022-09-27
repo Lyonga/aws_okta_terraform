@@ -1,5 +1,8 @@
 # Basic Okta setup for multiple accounts
 
+#For deploying multi github branches using terraform, jenkins and spinnacker
+https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/
+
 See http://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-for-Amazon-Web-Service#scenarioB for more information, documentation, etc.  
 
 1. First, setup Okta application and download the metdatafile to ../saml-metadata.xml
